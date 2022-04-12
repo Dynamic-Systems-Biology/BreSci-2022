@@ -17,6 +17,10 @@ user = **Your Username** <br>
 password = **Your Password** <br>
 <br>
 
+# tmp Folder
+
+In order to be able to get all statistics, please consider creating a directory called "tmp". All the information obtained by Anguix will be displayed in a .csv file inside this folder.
+
 # Running the Software:
 
 - Once started, the software will check for dependencies and display basic information about both Sabio-RK and Reactome.
